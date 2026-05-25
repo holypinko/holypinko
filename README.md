@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Pink</h1>
-<h3 align="center">A passionate C#/SQL developer</h3>
+<h1 align="center">Hey, I'm Pink</h1>
+<h3 align="center">I'm a passionate C#/SQL developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holypinko&label=Profile%20views&color=0e75b6&style=flat" alt="holypinko" /> </p>
 
-- 🔭 I’m currently working on [S&box](https://github.com/Facepunch/sbox-public)
+- I’m currently working on [S&box](https://github.com/Facepunch/sbox-public)
 
-- 🌱 I’m currently learning the **S&box API**
+- I’m currently learning the **S&box API**
 
-- 📫 How to reach me **Discord (Same username as here)**
+- You can reach me on **Discord** (Same username as here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/thatwatpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatwatpi" height="30" width="40" /></a>
+<a href="https://forums.somethingawful.com/member.php?action=getinfo&userid=236785" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQGJDtvpAvaFsw/company-logo_200_200/company-logo_200_200/0/1630468046164/something_awful_logo?e=1781136000&v=beta&t=A8cCWLYUOATADfNt2zcHGVtEVDUmBFwfg3TpS1h5IN0" alt="Something Awful" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
