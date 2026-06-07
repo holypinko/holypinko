@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/thatwatpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatwatpi" height="30" width="40" /></a>
 <a href="https://forums.somethingawful.com/member.php?action=getinfo&userid=236785" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQGJDtvpAvaFsw/company-logo_200_200/company-logo_200_200/0/1630468046164/something_awful_logo?e=1781136000&v=beta&t=A8cCWLYUOATADfNt2zcHGVtEVDUmBFwfg3TpS1h5IN0" alt="Something Awful" height="30" width="40" /></a>
 </p>
 
